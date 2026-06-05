@@ -1,0 +1,10 @@
+{
+  "name": "EnrollAI",
+  "description": "Premium multi-tenant SaaS student enrollment engagement and conversational AI assistant platform with advanced proactive triggers, geographical analytics, and conversational lead capture.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
